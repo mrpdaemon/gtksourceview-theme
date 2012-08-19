@@ -12,13 +12,11 @@ and this theme can be used with all of those.
 For Gedit just choose Edit->Preferences->Fonts&Colors, click the '+' icon to
 add a new theme and select mrpdaemon.xml from where it is downloaded.
 
+## Screenshot
+
+![Screenshot](https://raw.github.com/mrpdaemon/gtksourceview-theme/master/screenshot.png)
+
 ## Licensing
 
 This theme is licensed under the GPLv3. Please see the LICENSE file for
 additional details.
-
-## Example
-
-Here is an example screenshot:
-
-![Screenshot](https://raw.github.com/mrpdaemon/gtksourceview-theme/master/screenshot.png)
