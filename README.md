@@ -16,3 +16,9 @@ add a new theme and select mrpdaemon.xml from where it is downloaded.
 
 This theme is licensed under the GPLv3. Please see the LICENSE file for
 additional details.
+
+## Example
+
+Here is an example screenshot:
+
+![Screenshot](https://raw.github.com/mrpdaemon/gtksourceview-theme/master/screenshot.png)
