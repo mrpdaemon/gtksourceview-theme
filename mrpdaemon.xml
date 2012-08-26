@@ -29,6 +29,7 @@
   <!-- The Palette -->
   <color name="blue1"                       value="#000090"/>
   <color name="blue2"                       value="#86ABD9"/>
+  <color name="blue3"                       value="#99D7FF"/>
   <color name="red1"                        value="#661709"/>
   <color name="brown1"                      value="#553500"/>
   <color name="green1"                      value="#005200"/>
@@ -43,7 +44,7 @@
   <style name="line-numbers"                foreground="gray1" background="#white"/>
 
   <!-- Bracket Matching -->
-  <style name="bracket-match"               foreground="#white" background="blue2"/>
+  <style name="bracket-match"               foreground="#white" background="blue3"/>
   <style name="bracket-mismatch"            foreground="#white" background="#red"/>
 
   <!-- Comments -->
