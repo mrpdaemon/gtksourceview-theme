@@ -9,7 +9,7 @@ and this theme can be used with all of those.
 
 ## Screenshot
 
-<img src="https://raw.github.com/mrpdaemon/gtksourceview-theme/master/screenshot.png" alt="Screenshot" style="width: 961px;"/>
+![Screenshot](https://raw.github.com/mrpdaemon/gtksourceview-theme/master/screenshot.png)
 
 ## Installing
 
